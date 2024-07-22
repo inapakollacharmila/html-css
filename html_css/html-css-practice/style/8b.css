@@ -1,0 +1,11 @@
+p{
+  display: inline-block;
+  width: 350px;
+  font-size: 26px;
+  vertical-align: middle;
+}
+
+button{
+  font-size: 20px;
+  vertical-align: middle;
+}
